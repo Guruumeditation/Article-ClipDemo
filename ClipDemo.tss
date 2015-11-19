@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>C:\Equinoxe Consulting\Developement\Articles\ClipDemo\ClipDemo\ClipDemo.Shared\App.xaml</string>
+      <string>C:\Equinoxe Consulting\Developement\Articles\ClipDemo\ClipDemo\ClipDemo.Shared\App.xaml.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Equinoxe Consulting\Developement\Articles\ClipDemo\ClipDemo\ClipDemo.Shared\Control\ClipControl.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Equinoxe Consulting\Developement\Articles\ClipDemo\ClipDemo\ClipDemo.Shared\Behavior\ClippingBehavior.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Equinoxe Consulting\Developement\Articles\ClipDemo\ClipDemo\ClipDemo.Windows\MainPage.xaml</string>
+      <string>C:\Equinoxe Consulting\Developement\Articles\ClipDemo\ClipDemo\ClipDemo.Windows\MainPage.xaml.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Equinoxe Consulting\Developement\Articles\ClipDemo\ClipDemo\ClipDemo.WindowsPhone\MainPage.xaml</string>
+      <string>C:\Equinoxe Consulting\Developement\Articles\ClipDemo\ClipDemo\ClipDemo.WindowsPhone\MainPage.xaml.cs</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
